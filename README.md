@@ -5,3 +5,8 @@ OneWire on __C3 super mini__
 <img src= "pic/SerialMonitor_C3_DS18B20.png"> <br>
 ### Logic Analyzer OneWire <br>
 <img src= "pic/DS18B20_C3.png"> <br>
+
+<br>
+---
+## References <br>
+[OneWireNG] (https://github.com/pstolarz/OneWireNg) Github repository<br>
