@@ -1,7 +1,7 @@
 # C3Mini_1wire
 OneWire DS18B20 on <ins>C3 super mini</ins>
 <br>
-### PlatformIO Monitor <br>
+### PlatformIO Serial Monitor <br>
 <img src= "pic/SerialMonitor_C3_DS18B20.png"> <br>
 ### Logic Analyzer OneWire <br>
 <img src= "pic/DS18B20_C3.png"> <br>
