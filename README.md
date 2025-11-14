@@ -1,5 +1,5 @@
 # C3Mini_1wire
-OneWire on <ins>C3 super mini</ins>
+OneWire DS18B20 on <ins>C3 super mini</ins>
 <br>
 ### PlatformIO Monitor <br>
 <img src= "pic/SerialMonitor_C3_DS18B20.png"> <br>
