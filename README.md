@@ -10,5 +10,5 @@ OneWire on __C3 super mini__
 
 ---
 ## References <br>
-- [OneWireNG](https://github.com/pstolarz/OneWireNg) Github repository<br>
+- [OneWireNG](https://github.com/pstolarz/OneWireNg) OneWireNG Arduino Library Github repository<br>
 - [C3SuperMini-GettingStarted](https://randomnerdtutorials.com/getting-started-esp32-c3-super-mini/) RandomNerd Tutorials (C3-super-mini) <br>
