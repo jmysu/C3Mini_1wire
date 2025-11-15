@@ -1,5 +1,5 @@
 # C3Mini_1wire
-OneWire DS18B20 on <ins>C3 super mini</ins>
+<ins>C3 super mini</ins> with DS18B20
 <br>
 <img src= "pic/C3_DS18B20.jpg"> <br>
 <br>
